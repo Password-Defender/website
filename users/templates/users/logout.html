@@ -1,0 +1,12 @@
+{%extends "main/home.html"%}
+{% load static %}
+{% block title %}
+<title>Logout</title>
+{% endblock title %}
+{%block content%}
+        <h1 style="margin-top:70px; font-family: 'Oxanium'; font-size: 40px; font-weight:1000;">Successfully logged out!</h1>
+
+        <div class="login-button">
+            <a href="{%url 'login'%}">Login</a>
+        </div>
+{%endblock content%}
