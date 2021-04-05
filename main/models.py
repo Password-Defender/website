@@ -18,6 +18,9 @@ class Location(models.Model):
 
     def __str__(self):
         return self.website_name
+    
+    class Meta:
+        verbose_name = 'Account'
 
     def get_absolute_url(self):
         return reverse("home")
