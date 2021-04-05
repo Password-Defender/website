@@ -1,8 +1,12 @@
 <h2 align="center"><b>Password Defender - Most Secured Password
 Manager (Web App)</b><br></h2>
 
-![dashboard_browser](images/dashboard_browser.png)
+<p align="center">
+<img src="images/dashboard_browser.png"  width="300"/>
+</p>
+
 <p align="center">Our Website Dashboard</p>
+
 
 ## About Project
 <p>
