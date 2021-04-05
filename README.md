@@ -1,5 +1,5 @@
-<h2 align="center"><b>Password Defender - Most Secured Password
-Manager (Web App)</b><br></h2>
+<h1 align="center"><b>Password Defender - Most Secured Password
+Manager (Web App)</b><br></h1>
 
 <p align="center">
 <img src="images/dashboard_browser.png"  width="600"/>
