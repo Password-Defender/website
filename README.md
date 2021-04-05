@@ -38,9 +38,11 @@ are also stored in database in an encrypted way</br></p>
 #### This Project is made using Django, HTML, CSS.
 
 
-![reg](images/reg.png)
-<p align="center">Register</p>
 
+<p align="center">
+  <img src="images/reg.png"  height="350"/>
+</p>
+<p align="center">Register</p>
 
 ![login_browser](images/login_browser.png)
 <p align="center">Login</p>
@@ -49,7 +51,10 @@ are also stored in database in an encrypted way</br></p>
 <p align="center">Detail View</p>
 
 
-![add-pass](images/add-pass.png)
+
+<p align="center">
+  <img src="images/add-pass.png"  height="350"/>
+</p>
 <p align="center">Add Password</p>
 
 
@@ -57,9 +62,11 @@ are also stored in database in an encrypted way</br></p>
 <p align="center">Profile</p>
 
 
-![delete](images/delete.png)
-<p align="center">Delete</p>
 
+<p align="center">
+  <img src="images/delete.png"  width="300"/>
+</p>
+<p align="center">Delete</p>
 
 ### Team - Dynamic Duo
   [Shumaiya Akter Shammi](https://github.com/Shammi179)<br>
