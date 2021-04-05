@@ -2,7 +2,7 @@
 Manager (Web App)</b><br></h2>
 
 <p align="center">
-<img src="images/dashboard_browser.png"  width="300"/>
+<img src="images/dashboard_browser.png"  width="600"/>
 </p>
 
 <p align="center">Our Website Dashboard</p>
@@ -48,7 +48,11 @@ are also stored in database in an encrypted way</br></p>
 </p>
 <p align="center">Register</p>
 
-![login_browser](images/login_browser.png)
+
+<p align="center">
+<img src="images/login_browser.png"  width="600"/>
+</p>
+
 <p align="center">Login</p>
 
 ![detail_view](images/detail_view.png)
@@ -61,8 +65,9 @@ are also stored in database in an encrypted way</br></p>
 </p>
 <p align="center">Add Password</p>
 
-
-![profile_browser](images/profile_browser.png)
+<p align="center">
+<img src="images/profile_browser.png"  width="600"/>
+</p>
 <p align="center">Profile</p>
 
 
